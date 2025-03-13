@@ -138,7 +138,7 @@ mini-spring
 
 ## 环境要求
 - JDK 17+
-- Maven 3.11.0+
+- Maven 3.8.1+
 - IDE（推荐IntelliJ IDEA）
 - Git
 
